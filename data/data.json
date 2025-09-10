@@ -1,3 +1,11 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "user_1757510229076_b8twk2o",
+      "email": "vansh@mail.com",
+      "password": "$2b$10$M.KYECF/nN1hyAXmrKRCUOS3yfTYXyW8x7OeTiG9f27ahaPGBKOO2",
+      "createdAt": "2025-09-10T13:17:09.076Z",
+      "updatedAt": "2025-09-10T13:17:09.076Z"
+    }
+  ]
 }
